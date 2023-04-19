@@ -1,3 +1,0 @@
-ctrl shift h
-ctrl  k and then v
-use md file that render in github
