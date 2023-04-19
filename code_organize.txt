@@ -1,0 +1,20 @@
+- app.js            // main entry point for the application
+- routes/           // contains all the routes of the application
+    - index.js      // example route file
+    - users.js      // example route file
+- controllers/      // contains all the controllers of the application
+    - index.js      // example controller file
+    - users.js      // example controller file
+- models/           // contains all the models of the application
+    - index.js      // example model file
+    - user.js       // example model file
+- public/           // contains all static files (images, stylesheets, client-side JS)
+    - images/
+    - styles/
+    - js/
+- views/            // contains all the view templates (EJS, Pug, Handlebars, etc.)
+    - index.ejs     // example view file
+    - layout.ejs    // example layout file
+    - partials/     // contains all the partial templates (header, footer, etc.)
+        - header.ejs
+        - footer.ejs
