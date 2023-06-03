@@ -1,4 +1,4 @@
-ctrl shift h
+ctrl shift v
 ctrl  k and then v
 use md file that render in github
 
